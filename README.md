@@ -20,5 +20,5 @@ Steps to use:
     
 3) once downloaded, go to chrome://extensions
 4) click on the load unpack option from the top left corner
-5) upload the downloaded files.
+5) upload the downloaded files
 6) boooom! you are good to go!
